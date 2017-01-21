@@ -1,0 +1,4 @@
+# Here you go
+
+username = input("Witaj! Jak brzmi Twoje imię?")
+print "Hello, ",username,". It's nice to meet you!"
